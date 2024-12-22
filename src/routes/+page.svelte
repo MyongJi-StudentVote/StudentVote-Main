@@ -19,7 +19,7 @@
 		>투표율</a
 	>
 	<a
-		href="#"
+		href="/vote-result"
 		class="block w-full bg-white text-blue-800 font-semibold py-2 rounded-full hover:bg-gray-100"
 		>개표 결과</a
 	>

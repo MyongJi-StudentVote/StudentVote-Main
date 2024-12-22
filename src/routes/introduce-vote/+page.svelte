@@ -51,10 +51,10 @@
 	>
 </div>
 
-<h1 class="text-2xl font-bold mb-8 leading-tight">선거 소개</h1>
+<h1 class="text-2xl font-bold mb-8 leading-tight">선거 정보</h1>
 <div class="space-y-4">
 	<div class="w-full px-6 py-3 bg-white rounded-full text-left text-blue-950 text-base">
-		총 학생회
+		<a href="/introduce-vote/main-student">총 학생회</a>
 	</div>
 
 	<div class="w-full px-6 py-3 bg-white rounded-full text-left text-blue-950 text-base">
